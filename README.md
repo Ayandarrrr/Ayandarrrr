@@ -16,7 +16,7 @@ I'm a passionate Full-Stack Web Development student who enjoys building responsi
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -78,7 +78,7 @@ A tutoring website designed with responsive layouts and clean user interfaces.
 ##  Connect With Me
 
 * GitHub: **github.com/Ayandarrrr**
-* LinkedIn: *Add your LinkedIn profile here*
+* LinkedIn: **https://www.linkedin.com/in/tina-ayanda-fezani-4b23b7271/**
 * Portfolio: *Add your portfolio link here*
 
 ---
