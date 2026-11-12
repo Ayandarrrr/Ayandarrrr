@@ -1,6 +1,6 @@
-# Hi there, I'm Tina Ayanda Fezani 👋
+# Hi there, I'm Tina Ayanda Fezani 
 
-###  Aspiring Full-Stack Web Developer
+###  Junior  Full-Stack Web Developer
 
 I'm a passionate Full-Stack Web Development student who enjoys building responsive, user-friendly web applications and continuously learning new technologies. I love solving problems through code and creating projects that improve my skills while delivering great user experiences.
 
